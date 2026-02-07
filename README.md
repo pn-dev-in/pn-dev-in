@@ -19,7 +19,7 @@ I care more about **reliability, clarity, and user control** than flashy demos.
 
 ### ⭐ Featured Projects
 
-🎙️ **AI-voice-assistant-system**  
+🎙️ **AI-Voice Assistant System**  
 A local, privacy-first AI assistant built for daily use.
 
 **Core ideas:**
