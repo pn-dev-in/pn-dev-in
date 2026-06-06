@@ -19,37 +19,62 @@ I care more about **reliability, clarity, and user control** than flashy demos.
 
 ### ⭐ Featured Projects
 
-🎙️ **AI-Voice Assistant System**  
-A local, privacy-first AI assistant built for daily use.
+🚀 **TalentMatch AI**
+Intelligent Resume Screening & Candidate Ranking Platform
 
-**Core ideas:**
-- Push-to-talk only (no always-on listening)
-- Explicit intent classification and safety guardrails
-- User-controlled memory (no silent data collection)
-- Sandboxed task execution
-- Designed as a personal AI mediator, not a cloud chatbot
+TalentMatch AI is an AI-powered recruitment intelligence platform that automates resume screening, candidate ranking, ATS scoring, and job matching using Natural Language Processing (NLP), semantic search, and machine learning techniques.
 
----
-
-🏃 **AI-Powered Fitness Tracking System**  
-An intelligent fitness tracking system focused on **personalized insights**, not generic recommendations.
-
-**Highlights:**
-- Activity and habit tracking
-- AI-driven fitness insights and progress analysis
-- User-centric data handling
-- Designed to support consistency and long-term health goals
+✨ **Highlights**
+🤖 AI-powered resume screening and candidate ranking
+🧠 Multiple matching strategies using TF-IDF, BERT, and Hybrid models
+📄 Automatic parsing of PDF and DOCX resumes
+🎯 Semantic job matching using transformer embeddings
+🏆 ATS-style scoring with detailed evaluation metrics
+🔍 Intelligent skill extraction and missing skill analysis
+📊 Interactive recruiter dashboard with visual analytics
+📑 Export candidate reports in CSV and PDF formats
+⚡ Fast similarity search powered by FAISS vector indexing
+🌐 Modern Streamlit interface for seamless recruiter experience
+☁️ Cloud deployment with production-ready architecture
 
 ---
 
-💰 **AI-Powered Budget Tracker**  
-A smart budgeting system designed to improve **financial awareness and decision-making**.
+🏃 **PoseTrack AI**
+Real-Time AI Fitness Coach Using Computer Vision & Pose Estimation
 
-**Highlights:**
-- Expense categorization and trend analysis
-- AI-assisted budgeting insights
-- Focus on clarity, discipline, and usability
-- Built with privacy and transparency in mind
+PoseTrack AI is a full-stack fitness tracking platform that leverages computer vision and pose estimation to monitor body movements, count exercise repetitions, analyze workout performance, and provide real-time feedback through an interactive web interface.
+
+Designed as a virtual fitness assistant, the application helps users maintain proper exercise form, monitor workout consistency, and track long-term fitness progress using AI-driven pose detection and analytics.
+
+✨ **Highlights**
+🤖 Real-time human pose estimation using MediaPipe and OpenCV
+💪 Automatic repetition counting for multiple exercises
+📐 Joint angle calculation and posture analysis
+🔥 Calorie estimation and workout performance tracking
+📊 Interactive dashboard with workout history and analytics
+📁 Export workout records for further analysis
+🌐 Responsive web application built with Flask
+☁️ Cloud deployment with Docker support
+
+---
+
+💰 **FinPilot**
+Smart Personal Finance & Budget Management Platform
+
+FinPilot is a modern personal finance management platform designed to help users track income, manage expenses, monitor budgets, and gain meaningful financial insights through interactive analytics and intelligent reporting.
+
+✨ **Highlights**
+💳 Multi-account income and expense management
+📈 Interactive financial dashboards and spending analytics
+🎯 Budget planning and utilization monitoring
+💰 Savings goal tracking with progress visualization
+📊 Financial Health Score based on income, expenses, and liabilities
+📉 Spending trend analysis and forecasting
+🚨 Budget alerts and transaction anomaly detection
+🔐 Secure authentication with user-specific financial data
+🌙 Modern responsive interface with Dark/Light mode support
+⚡ REST API powered by Django REST Framework
+☁️ Production deployment using PostgreSQL and Render
 
 ---
 
