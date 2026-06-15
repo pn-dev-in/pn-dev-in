@@ -1,12 +1,6 @@
 ## Hi, I’m Pravesh 👋
 
-I build **practical AI systems** with a strong focus on:
-- safety and intent control
-- privacy-first design
-- real-world usability
-
-I care more about **reliability, clarity, and user control** than flashy demos.
-
+I build production-ready backend systems and AI-powered applications. 8 shipped projects, 2 internships, actively seeking my first full-time role.
 ---
 
 ### 🔍 Current Focus
