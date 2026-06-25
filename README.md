@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header&text=Pravesh%20Nandanwar&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<h3>AI Engineer · Cloud Engineer · Full Stack Developer</h3>
+<h3>Software Engineer</h3>
+
+<p><strong>Backend • Full Stack • AI/ML • Cloud</strong></p>
 
 <p><em>Building AI-powered applications, cloud-native systems, and developer tools that solve real-world problems.</em></p>
 
@@ -10,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravesh-nandanwar/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pn-dev-in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://praveshnandanwar.vercel.app)
 
 <br/>
 
@@ -24,20 +26,30 @@
 
 ## 👋 About Me
 
-I'm **Pravesh Nandanwar** — a developer focused on building systems that actually work in production. My work sits at the intersection of **AI engineering**, **cloud infrastructure**, and **full-stack development**.
+I'm **Pravesh Nandanwar**, a Software Engineer passionate about building scalable backend systems, AI-powered applications, and modern web platforms.
 
-I don't just prototype ideas — I design, build, and ship software with real architecture behind it. From voice AI agents with long-term memory to NLP-powered recruitment platforms, my projects reflect the kind of engineering that shows up in real products.
+I enjoy solving real-world problems through clean architecture, practical engineering, and continuous learning. My work spans backend development, artificial intelligence, cloud technologies, and full-stack applications with a focus on writing maintainable and production-ready software.
 
 ```python
 pravesh = {
-    "roles":        ["AI Engineer", "Cloud Engineer", "Full Stack Developer", "DevOps"],
+    "roles":        ["Software Engineer", "Backend Developer", "Full Stack Developer", "AI&ML", "DevOps"],
     "focus":        ["AI Systems", "Cloud-Native Apps", "Developer Tools"],
     "languages":    ["Python", "JavaScript", "TypeScript", "SQL", "Bash"],
-    "currently":    "Building VoicePilot v2 + Personal Knowledge OS",
+    "currently":    "currently": "Building AI-powered backend applications and intelligent developer tools",
     "open_to":      "Full-time roles · Internships · Collaborations",
     "location":     "India 🇮🇳  ·  Open to Remote",
 }
 ```
+
+---
+
+## 💡 Engineering Principles
+
+- Write clean and maintainable code
+- Build scalable backend systems
+- Automate repetitive workflows
+- Learn continuously and ship consistently
+- Focus on practical, user-centric solutions
 
 ---
 
@@ -52,7 +64,7 @@ pravesh = {
 ### 🎙️ [VoicePilot AI](https://github.com/pn-dev-in/VoicePilot-AI)
 **Privacy-first voice assistant with LLM reasoning**
 
-A real-world Jarvis implementation with wake-word detection, local speech recognition (Whisper), long-term memory, and explicit tool-calling — designed with privacy at the core.
+AI-powered voice assistant with conversational memory, speech recognition, and intelligent automation designed to improve everyday productivity.
 
 `Python` `OpenAI` `LangChain` `Whisper` `SQLite`
 
@@ -62,7 +74,7 @@ A real-world Jarvis implementation with wake-word detection, local speech recogn
 ### 🏃 [PoseTrack AI](https://github.com/pn-dev-in/PoseTrack-AI)
 **Real-time AI fitness coach using computer vision**
 
-Tracks 33-point body pose via MediaPipe, runs exercise-specific state machines for rep counting, computes joint angles, and streams feedback through a Flask dashboard.
+Real-time computer vision application that tracks human pose, analyzes posture, counts exercise repetitions, and provides workout analytics using MediaPipe.
 
 `Python` `MediaPipe` `OpenCV` `Flask` `NumPy`
 
@@ -74,7 +86,7 @@ Tracks 33-point body pose via MediaPipe, runs exercise-specific state machines f
 ### 🎯 [TalentMatch AI](https://github.com/pn-dev-in/TalentMatch-AI)
 **NLP-powered intelligent recruitment platform**
 
-Automates resume screening using a hybrid pipeline — TF-IDF, BERT embeddings, and a weighted model — with ATS scoring, skill gap analysis, and ranked candidate output.
+An AI-powered recruitment platform that automates resume screening, candidate ranking, ATS scoring, semantic job matching, and recruiter analytics using NLP and machine learning.
 
 `Python` `BERT` `TF-IDF` `scikit-learn` `Streamlit`
 
@@ -84,7 +96,7 @@ Automates resume screening using a hybrid pipeline — TF-IDF, BERT embeddings, 
 ### 💰 [FinPilot](https://github.com/pn-dev-in/FinPilot)
 **Full-stack personal finance platform**
 
-Production-deployed finance manager with multi-account tracking, budget planning, savings goals, a Financial Health Score engine, and trend analytics.
+A personal finance management platform for budgeting, expense tracking, financial analytics, and savings management with secure authentication.
 
 `Django` `PostgreSQL` `React` `JWT` `Render`
 
@@ -99,7 +111,6 @@ Production-deployed finance manager with multi-account tracking, budget planning
 **AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -133,7 +144,6 @@ Production-deployed finance manager with multi-account tracking, budget planning
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -142,10 +152,7 @@ Production-deployed finance manager with multi-account tracking, budget planning
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pn-dev-in&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=94A3B8&count_private=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pn-dev-in&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=94A3B8&langs_count=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=pn-dev-in&theme=algolia&no-frame=true&row=1&column=6"/>
 
 <br/><br/>
 
@@ -157,40 +164,58 @@ Production-deployed finance manager with multi-account tracking, budget planning
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| ☁️ AWS Certified Solutions Architect | Amazon Web Services | ✅ Certified |
-| 🔷 Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ Certified |
-| 📡 Cloud Computing | NPTEL — IIT | ✅ Certified |
-| 🤖 AI & Machine Learning Honors | Academic Program | ✅ Completed |
-| 🧠 Deep Learning Specialization | Online | ✅ Certified |
+| Certification                                           | Provider                       |
+| ------------------------------------------------------- | ------------------------------ |
+| ☁️ AWS Cloud Practitioner Essentials                    | Amazon Web Services (Coursera) |
+| 📊 Data Analytics Essentials                            | Cisco Networking Academy       |
+| ☁️ Cloud Computing (Elite Certified)                    | NPTEL – IIT Kharagpur          |
+| 🔐 Foundations of Cybersecurity                         | Google (Coursera)              |
+| 🤖 Honors in Artificial Intelligence & Machine Learning | MIT Chhatrapati Sambhajinagar  |
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer Intern — Encrypta** *(2024)*
-> Backend systems development with a focus on security, reliability, and production-grade code quality. Built APIs, data pipelines, and contributed to security-focused software features.
+### 💻 Software Development Intern
 
-**Technical Lead — Training & Placement Cell** *(2023–2024)*
-> Led technical operations for university T&P Cell. Built internal tools, organized technical workshops, mentored students on career development, and coordinated campus hiring with industry partners.
+**JBB Technologies Pvt. Ltd.**
+*Jan 2026 – Present · Chhatrapati Sambhajinagar, India*
+
+* Developed backend modules and database-driven workflows for a multi-tenant SaaS CRM, implementing scalable business logic and REST-based features.
+* Designed and implemented a Role-Based Access Control (RBAC) system supporting Super Admin, Admin, Manager, Technician, and Customer roles.
+* Contributed to the development of a banking management system with customer onboarding, account management, transaction processing, and a secure administrative dashboard.
+* Integrated real-time in-app and email notification services for job assignments and workflow status updates.
+* Collaborated with the engineering team using Git, GitHub, feature branches, pull requests, integration testing, and code reviews.
 
 ---
 
-## 🔭 Currently Building
+### 🔬 Research & Development Intern
 
-| Project | Status | Description |
-|---|---|---|
-| 🎙️ VoicePilot v2 | 🟢 Active | Multi-modal voice AI with plugin architecture and persistent user profiles |
-| 🧠 Personal Knowledge OS | 🟢 Active | AI-powered second brain with semantic search over notes and documents |
-| 📋 ServiceCRM | 🟡 Design | AI-enhanced CRM with smart ticket routing and sentiment analysis |
-| 💰 AI Budget Intelligence | 🔵 Planning | ML-powered spending prediction and anomaly detection layer for FinPilot |
+**Encrypta — Sindhvi Technologies Pvt. Ltd.** *(Remote)*
+*Oct 2025 – Dec 2025*
+
+* Contributed to research on secure application architecture by analyzing authentication workflows across enterprise and government web platforms.
+* Redesigned the browser extension profile interface, consolidating user settings into a unified experience released in **v1.1.3** for Chrome and Firefox.
+* Assisted in requirement analysis, technical documentation, and collaborative software development using Git-based workflows.
+
+---
+
+## 🚧 Currently Building
+
+> Projects currently under active development.
+
+| Status             | Project                   | Description                                                                                                                                                                                                           |
+| ------------------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🟢 **In Progress** | **JPCB Bank**             | Enterprise-grade banking management platform featuring customer onboarding, account management, loans, fixed deposits, transaction processing, staff administration, reporting, and secure role-based access control. |
+| 🟢 **In Progress** | **Personal Knowledge OS** | AI-powered second brain built with Retrieval-Augmented Generation (RAG), enabling conversational search across personal notes, PDFs, documents, and web content.                                                      |
+| 🟡 **Planning**    | **AI DevOps Copilot**     | Intelligent DevOps assistant that analyzes CI/CD pipelines, diagnoses deployment failures, suggests fixes, and executes remediation workflows with user approval.                                                     |
+
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to **AI Engineering**, **Cloud Engineering**, **DevOps**, and **Full Stack** roles — full-time or internship, on-site or remote.
+I'm open to **Software Engineer**, **Backend Engineer**,  **Full Stack Engineer**, **AI/ML Engineering** and **DevOps**, roles — full-time or internship, on-site or remote.
 
 <div align="center">
 
