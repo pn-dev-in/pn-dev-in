@@ -170,15 +170,7 @@ A personal finance management platform for budgeting, expense tracking, financia
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pn-dev-in&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pn-dev-in&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
 
