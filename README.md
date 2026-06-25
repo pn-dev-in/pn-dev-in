@@ -1,81 +1,171 @@
-## Hi, I’m Pravesh 👋
+<h1 align="center">Hi 👋, I'm Pravesh Nandanwar</h1>
 
-I build production-ready backend systems and AI-powered applications. 8 shipped projects, 2 internships, actively seeking my first full-time role.
----
+<h3 align="center">
+Backend Engineer • AI Developer • Full Stack Developer
+</h3>
 
-### 🔍 Current Focus
-- Voice-first AI agents
-- Cloud & backend systems
-- AI-powered personal productivity tools
-- Automation that respects user intent and boundaries
+<p align="center">
+Building scalable backend systems, AI-powered applications, and modern web platforms.
+</p>
 
----
-
-### ⭐ Featured Projects
-
-🚀 **TalentMatch AI**
-- Intelligent Resume Screening & Candidate Ranking Platform
-
-TalentMatch AI is an AI-powered recruitment intelligence platform that automates resume screening, candidate ranking, ATS scoring, and job matching using Natural Language Processing (NLP), semantic search, and machine learning techniques.
-
-✨ **Highlights**
-- 🤖 AI-powered resume screening and candidate ranking
-- 🧠 Multiple matching strategies using TF-IDF, BERT, and Hybrid models
-- 📄 Automatic parsing of PDF and DOCX resumes
-- 🎯 Semantic job matching using transformer embeddings
-- 🏆 ATS-style scoring with detailed evaluation metrics
-- 🔍 Intelligent skill extraction and missing skill analysis
-- 📊 Interactive recruiter dashboard with visual analytics
-- 📑 Export candidate reports in CSV and PDF formats
-- 🌐 Modern Streamlit interface for seamless recruiter experience
+<p align="center">
+Open to Software Engineer, Backend Engineer and AI Engineer opportunities.
+</p>
 
 ---
 
-🏃 **PoseTrack AI**
-- Real-Time AI Fitness Coach Using Computer Vision & Pose Estimation
+## 🚀 About Me
 
-PoseTrack AI is a full-stack fitness tracking platform that leverages computer vision and pose estimation to monitor body movements, count exercise repetitions, analyze workout performance, and provide real-time feedback through an interactive web interface.
+I'm a Computer Science undergraduate passionate about building software that solves real-world problems.
 
-✨ **Highlights**
-- 🤖 Real-time human pose estimation using MediaPipe and OpenCV
-- 💪 Automatic repetition counting for multiple exercises
-- 📐 Joint angle calculation and posture analysis
-- 🔥 Calorie estimation and workout performance tracking
-- 📊 Interactive dashboard with workout history and analytics
-- 🌐 Responsive web application built with Flask
+My interests lie in backend engineering, artificial intelligence, cloud technologies, and scalable web applications. I enjoy designing systems that are reliable, maintainable, and production-ready.
 
----
+Currently focused on:
 
-💰 **FinPilot**
-- Smart Personal Finance & Budget Management Platform
-
-FinPilot is a modern personal finance management platform designed to help users track income, manage expenses, monitor budgets, and gain meaningful financial insights through interactive analytics and intelligent reporting.
-
-✨ **Highlights**
-- 💳 Multi-account income and expense management
-- 📈 Interactive financial dashboards and spending analytics
-- 🎯 Budget planning and utilization monitoring
-- 💰 Savings goal tracking with progress visualization
-- 📊 Financial Health Score based on income, expenses, and liabilities
-- 📉 Spending trend analysis and forecasting
-- 🚨 Budget alerts and transaction anomaly detection
-- 🔐 Secure authentication with user-specific financial data
-- 🌙 Modern responsive interface with Dark/Light mode support
-- ⚡ REST API powered by Django REST Framework
-- ☁️ Production deployment using PostgreSQL and Render
+- 🤖 AI-powered applications
+- ⚙️ Backend Engineering
+- ☁️ Cloud Technologies
+- 📊 Data-driven products
+- 🚀 Full Stack Development
 
 ---
 
-### 🧠 Engineering Values
-- Clear separation of concerns
-- Deterministic control flow
-- Minimal hidden state
-- Explicit permissions and memory
-- Privacy by default
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### AI / ML
+
+- TensorFlow
+- OpenCV
+- MediaPipe
+- Scikit-Learn
+- NLP
+- Transformer Models
+- Gemini API
+- OpenAI API
+
+### Tools
+
+Git • GitHub • Docker • Postman • VS Code • Render • Vercel • Linux
 
 ---
 
-### 📫 Connect
-- GitHub: https://github.com/pn-dev-in  
-- LinkedIn: https://www.linkedin.com/in/pravesh-nandanwar/
+# ⭐ Featured Projects
 
+## 🚀 TalentMatch AI
+
+AI-powered recruitment intelligence platform for automated resume screening, candidate ranking, ATS scoring, semantic job matching, and recruiter analytics.
+
+**Tech**
+
+Python • Streamlit • NLP • BERT • Scikit-learn • Pandas
+
+---
+
+## 🏃 PoseTrack AI
+
+Real-time AI fitness coach using computer vision and pose estimation for posture analysis, repetition counting, workout tracking, and calorie estimation.
+
+**Tech**
+
+Python • Flask • OpenCV • MediaPipe
+
+---
+
+## 💰 FinPilot
+
+Modern personal finance management platform featuring budgeting, analytics, savings tracking, financial health scoring, and secure authentication.
+
+**Tech**
+
+Django • PostgreSQL • Django REST Framework
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pn-dev-in&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pn-dev-in&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pn-dev-in&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Pravesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pn-dev-in&theme=github-dark)](https://github.com/pn-dev-in)
+
+---
+
+## 🎯 Current Goals
+
+- Build production-ready AI products
+- Contribute to Open Source
+- Learn AWS & Kubernetes
+- Strengthen System Design skills
+- Solve 500+ DSA problems
+- Land my first Software Engineer role
+
+---
+
+## 📫 Connect With Me
+
+📧 Email
+
+praveshnandanwar267@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/pravesh-nandanwar
+
+🌐 Portfolio
+
+https://praveshnandanwar.vercel.app
+
+💻 GitHub
+
+https://github.com/pn-dev-in
+
+---
+
+<p align="center">
+
+"Code is not just written to work. It should be written to last."
+
+</p>
