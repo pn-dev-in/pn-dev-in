@@ -32,12 +32,32 @@ I enjoy solving real-world problems through clean architecture, practical engine
 
 ```python
 pravesh = {
-    "roles":        ["Software Engineer", "Backend Developer", "Full Stack Developer", "AI&ML", "DevOps"],
-    "focus":        ["AI Systems", "Cloud-Native Apps", "Developer Tools"],
-    "languages":    ["Python", "JavaScript", "TypeScript", "SQL", "Bash"],
-    "currently":    "currently": "Building AI-powered backend applications and intelligent developer tools",
-    "open_to":      "Full-time roles · Internships · Collaborations",
-    "location":     "India 🇮🇳  ·  Open to Remote",
+    "roles": [
+        "Software Engineer",
+        "Backend Developer",
+        "Full Stack Developer",
+        "AI/ML"
+    ],
+    "focus": [
+        "Backend Systems",
+        "Artificial Intelligence",
+        "Cloud Computing"
+    ],
+    "languages": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "Java"
+    ],
+    "currently":
+        "Building scalable backend applications and AI-powered products",
+
+    "open_to":
+        "Software Engineer · Backend Engineer · Full Stack",
+
+    "location":
+        "India 🇮🇳"
 }
 ```
 
@@ -149,14 +169,15 @@ A personal finance management platform for budgeting, expense tracking, financia
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pn-dev-in&theme=algolia&no-frame=true&row=1&column=6"/>
 
-<br/><br/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pn-dev-in&theme=github_dark"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pn-dev-in&bg_color=0D1117&color=94A3B8&line=2563EB&point=2563EB&area=true&hide_border=true" />
+<br><br>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pn-dev-in&theme=github_dark"/>
 
 </div>
 
@@ -179,30 +200,26 @@ A personal finance management platform for budgeting, expense tracking, financia
 ### 💻 Software Development Intern
 
 **JBB Technologies Pvt. Ltd.**
-*Jan 2026 – Present · Chhatrapati Sambhajinagar, India*
+*Jan 2026 – Present*
 
-* Developed backend modules and database-driven workflows for a multi-tenant SaaS CRM, implementing scalable business logic and REST-based features.
-* Designed and implemented a Role-Based Access Control (RBAC) system supporting Super Admin, Admin, Manager, Technician, and Customer roles.
-* Contributed to the development of a banking management system with customer onboarding, account management, transaction processing, and a secure administrative dashboard.
-* Integrated real-time in-app and email notification services for job assignments and workflow status updates.
-* Collaborated with the engineering team using Git, GitHub, feature branches, pull requests, integration testing, and code reviews.
+- Developed backend modules and REST APIs for a multi-tenant SaaS CRM with scalable business logic.
+- Implemented a Role-Based Access Control (RBAC) system and contributed to an enterprise banking management platform.
+- Collaborated on feature development, testing, bug fixes, and GitHub-based code reviews.
 
 ---
 
 ### 🔬 Research & Development Intern
 
-**Encrypta — Sindhvi Technologies Pvt. Ltd.** *(Remote)*
-*Oct 2025 – Dec 2025*
+**Encrypta — Sindhvi Technologies Pvt. Ltd.**
+*Oct 2025 – Dec 2025 · Remote*
 
-* Contributed to research on secure application architecture by analyzing authentication workflows across enterprise and government web platforms.
-* Redesigned the browser extension profile interface, consolidating user settings into a unified experience released in **v1.1.3** for Chrome and Firefox.
-* Assisted in requirement analysis, technical documentation, and collaborative software development using Git-based workflows.
+- Researched secure application architecture and authentication workflows for enterprise platforms.
+- Redesigned the browser extension profile interface released in **v1.1.3** for Chrome and Firefox.
+- Supported technical documentation and collaborative development using Git.
 
 ---
 
 ## 🚧 Currently Building
-
-> Projects currently under active development.
 
 | Status             | Project                   | Description                                                                                                                                                                                                           |
 | ------------------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -215,7 +232,7 @@ A personal finance management platform for budgeting, expense tracking, financia
 
 ## 📫 Let's Connect
 
-I'm open to **Software Engineer**, **Backend Engineer**,  **Full Stack Engineer**, **AI/ML Engineering** and **DevOps**, roles — full-time or internship, on-site or remote.
+Open to **Software Engineer**, **Backend Engineer**,  **Full Stack Engineer**, **AI/ML Engineering** and **DevOps**, roles — full-time or internship, on-site or remote.
 
 <div align="center">
 
