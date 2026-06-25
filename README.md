@@ -36,7 +36,8 @@ pravesh = {
         "Software Engineer",
         "Backend Developer",
         "Full Stack Developer",
-        "AI/ML"
+        "AI/ML",
+        "DevOps"
     ],
     "focus": [
         "Backend Systems",
@@ -54,10 +55,10 @@ pravesh = {
         "Building scalable backend applications and AI-powered products",
 
     "open_to":
-        "Software Engineer · Backend Engineer · Full Stack",
+        "Full-time roles · Internships · Collaborations",
 
     "location":
-        "India 🇮🇳"
+        "India 🇮🇳 · Open to Remote"
 }
 ```
 
@@ -169,17 +170,21 @@ A personal finance management platform for budgeting, expense tracking, financia
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pn-dev-in&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pn-dev-in&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<br><br>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pn-dev-in&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pn-dev-in&theme=github_dark"/>
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pn-dev-in&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
