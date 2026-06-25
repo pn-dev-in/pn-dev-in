@@ -46,19 +46,14 @@ pravesh = {
     ],
     "languages": [
         "Python",
+        "Java",
         "JavaScript",
         "TypeScript",
-        "SQL",
-        "Java"
+        "SQL"
     ],
-    "currently":
-        "Building scalable backend applications and AI-powered products",
-
-    "open_to":
-        "Full-time roles · Internships · Collaborations",
-
-    "location":
-        "India 🇮🇳 · Open to Remote"
+    "currently": "Building scalable backend applications and AI-powered products",
+    "open_to": "Full-time Roles • Internships • Collaborations",
+    "location": "India 🇮🇳 • Open to Remote"
 }
 ```
 
